@@ -7,15 +7,13 @@
 > * Note: Due to privacy issues, the code of this project is not publicly available.*
 
 ## Introduction
-[![Banner](https://raw.githubusercontent.com/Bankrid/Auralin-clinical-trial/main/Auralin/Insulin.jpg)](https://images.unsplash.com/photo-1593491205049-7f032d28cf5c?auto=format&fit=crop&q=80&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&w=1470)
+[![Banner](https://raw.githubusercontent.com/Bankrid/Movie-Recommendation-System/main/img/banner.jpg)](https://images.unsplash.com/photo-1485846234645-a62644f84728?auto=format&fit=crop&q=80&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&w=1459)
 
 
 
-Diabetes is a chronic medical condition characterized by elevated blood glucose levels due to the body's inability to properly regulate insulin, a hormone responsible for controlling blood sugar. It is a global health concern, affecting millions of individuals worldwide. Proper management of diabetes is crucial in preventing complications such as heart disease, kidney failure, and vision problems.
+This project is centered on creating a dynamic movie recommendation system designed to deliver an unforgettable user experience and drive business growth. The objective is clear: to provide tailored movie suggestions based on user preferences and movie ratings. Leveraging collaborative filtering techniques, we aim to connect users with films that resonate with their tastes and interests.
 
-One of the cornerstones of diabetes management is insulin therapy. Insulin is a hormone that helps regulate blood sugar by facilitating glucose absorption into cells. Many individuals with diabetes rely on insulin injections to maintain healthy blood sugar levels.
-
-In the pursuit of optimizing diabetes management and enhancing patient care, the project focuses on the evaluation of the Auralin insulin treatment. To ensure the safety and effectiveness of Auralin, we will employ a rigorous comparative analysis, using Novodra as the standard insulin against which Auralin's safety and effectiveness will be measured.
+This endeavor is driven by the collective vision of my team to enhance user engagement and satisfaction. In the subsequent sections, we will delve into the mechanics of collaborative filtering and its potential benefits for users and organizations. Together, we embark on a journey to revolutionize the movie-watching experience.
 
 ## Goal of the Project
 
