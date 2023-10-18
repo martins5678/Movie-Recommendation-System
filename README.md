@@ -1,9 +1,16 @@
 
-# Phase II: Oral Insulin Auralin Trials
+# Movie Recommendation System
 
-> *(Disclaimer: The clinical dataset is fabricated for the sake of data wrangling practice on Udacity. It is constructed to simulate real-world dataset with the consults of real doctors. The 'auralin' and 'novodra' are NOT real insulin products, however, it mimics the real clinical trial for an inhaled insulin, Afrezza.)*
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://bankrid.github.io/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bankoleridwan/)
+
+> * Note: Due to privacy issues, the code of this project is not publicly available.*
 
 ## Introduction
+[![Banner](https://raw.githubusercontent.com/Bankrid/Auralin-clinical-trial/main/Auralin/Insulin.jpg)](https://images.unsplash.com/photo-1593491205049-7f032d28cf5c?auto=format&fit=crop&q=80&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&w=1470)
+
+
+
 Diabetes is a chronic medical condition characterized by elevated blood glucose levels due to the body's inability to properly regulate insulin, a hormone responsible for controlling blood sugar. It is a global health concern, affecting millions of individuals worldwide. Proper management of diabetes is crucial in preventing complications such as heart disease, kidney failure, and vision problems.
 
 One of the cornerstones of diabetes management is insulin therapy. Insulin is a hormone that helps regulate blood sugar by facilitating glucose absorption into cells. Many individuals with diabetes rely on insulin injections to maintain healthy blood sugar levels.
@@ -42,7 +49,7 @@ The dataset presented a multitude of challenges related to both data structure a
 
 > A comprehensive examination for duplicate entries shows a very unique form of duplicated entries. John Doe is a single patient with six different patient ID. 
 
-![Duplicated entries](https://github.com/Bankrid/Auralin-clinical-trial/blob/main/Auralin/duplicated%20enteries.PNG)
+![Duplicated entries](https://raw.githubusercontent.com/Bankrid/Auralin-clinical-trial/main/Auralin/duplicated%20enteries.PNG)
 
 
 
@@ -50,13 +57,13 @@ The dataset presented a multitude of challenges related to both data structure a
 
 > Three distinct features: 'treatment', 'start_dose' and 'end_dose' are reported as two features: 'auralin' and 'novodra'.
 
-![structure Anomaly](https://github.com/Bankrid/Auralin-clinical-trial/blob/a05e0ccc5bdd557ce5db8d5ef050097e68f48b1d/Auralin/structural%20anomaly.PNG)
+![structure Anomaly](https://raw.githubusercontent.com/Bankrid/Auralin-clinical-trial/main/Auralin/structural%20anomaly.PNG)
 
 
 ### Cleaned Dataset
 Following the comprehensive cleaning process aimed at addressing the identified dataset issues, here are the resultant outcomes.
 
-![Cleaned Dataset](https://github.com/Bankrid/Auralin-clinical-trial/blob/main/Auralin/cleaned%20dataset.PNG)
+![Cleaned Dataset](https://raw.githubusercontent.com/Bankrid/Auralin-clinical-trial/main/Auralin/cleaned%20dataset.PNG)
 
 
 ## Insights
@@ -69,13 +76,13 @@ Below are some of the remarkable insights gleaned from this investigation.
 > There is a statistically significant difference (t = 3.08, p = 0.002, $\alpha$ = 0.05) in HbA1c changes between Novodra and Auralin treatments. Therefore, we reject the null hypothesis, concluding that 
 Novodra leads to a significantly higher HbA1c change compared to Auralin.
 
-![Hba1c Change](https://github.com/Bankrid/Auralin-clinical-trial/blob/main/Auralin/hba1c%20change.png)
+![Hba1c Change](https://raw.githubusercontent.com/Bankrid/Auralin-clinical-trial/main/Auralin/hba1c%20change.png)
 
 #### Are adverse effects observed depend on the dose of auralin or novodra?
 
 > Only Auralin causes adverse effects such as throat irritation and nausea. Also, these side effects tend to be more prevalent with higher doses of auralin. 
 
-![Side Effect](https://github.com/Bankrid/Auralin-clinical-trial/blob/main/Auralin/side%20effects.png)
+![Side Effect](https://raw.githubusercontent.com/Bankrid/Auralin-clinical-trial/main/Auralin/side%20effects.png)
 
 
 #### Does increase dose of auralin or novodra translate to increase HbA1c Reduction?
@@ -83,7 +90,7 @@ Novodra leads to a significantly higher HbA1c change compared to Auralin.
 > There is an inverse relationship between the dosage of auralin (Corr. Coef. = -0.0730) and 
 its corresponding impact on the HbA1c levels, whereas novodra (Corr. Coef. = 0.0898) demonstrates a direct proportional relationship with the response. Using  minimum effective dose of auralin, can mitigate the side effects. 
 
-![Dose Correlation](https://github.com/Bankrid/Auralin-clinical-trial/blob/main/Auralin/dose%20correlation.png)                    
+![Dose Correlation](https://raw.githubusercontent.com/Bankrid/Auralin-clinical-trial/main/Auralin/dose%20correlation.png)                    
 
 
 
