@@ -79,6 +79,11 @@ The dashboard's capabilities and functionalities are elaborated upon in the foll
 | ![Homepage](https://raw.githubusercontent.com/Bankrid/Movie-Recommendation-System/main/img/Streamlit%20homepage.PNG) |  ![Recommendations](https://raw.githubusercontent.com/Bankrid/Movie-Recommendation-System/main/img/Streamlit%20recommend.PNG) |
 
 
+## Recommender System App Demo
+
+[![Recommender System App Demo](https://raw.githubusercontent.com/Bankrid/Movie-Recommendation-System/main/img/Streamlit%20recommend.PNG)](https://youtu.be/Vi4bUEh8I04)
+
+
 ## Model Deployment
 
 Subsequently, we deployed our recommender system on the AWS EC2 compute services infrastructure, complemented by using an S3 bucket for public access. This deployment enables widespread accessibility to our movie recommendation system, allowing users to benefit from its capabilities and personalized movie suggestions.
