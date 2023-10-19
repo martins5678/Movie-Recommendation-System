@@ -81,14 +81,7 @@ The dashboard's capabilities and functionalities are elaborated upon in the foll
 
 ## Recommender System App Demo
 
-[![Recommender System App Demo](https://raw.githubusercontent.com/Bankrid/Movie-Recommendation-System/main/img/Streamlit%20recommend.PNG)](https://youtu.be/Vi4bUEh8I04)
-
-
-<p align="center" width="250"><a href="https://youtu.be/Vi4bUEh8I04">
-    <img width="200" src="https://raw.githubusercontent.com/Bankrid/Movie-Recommendation-System/main/img/Streamlit%20recommend.PNG">
-</p></a> 
-
-[<img src="https://raw.githubusercontent.com/Bankrid/Movie-Recommendation-System/main/img/Streamlit%20recommend.PNG" width="200" height="200" />](https://youtu.be/Vi4bUEh8I04)
+[![Recommender System App Demo](https://raw.githubusercontent.com/Bankrid/Movie-Recommendation-System/main/img/Last%2020%20movieId.png)](https://youtu.be/Vi4bUEh8I04)
 
 
 ## Model Deployment
