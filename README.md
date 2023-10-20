@@ -1,12 +1,12 @@
 
 # Movie Recommendation System
 
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://bankrid.github.io/)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://bankoleridwan.github.io/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bankoleridwan/)
 
 
 ## Introduction
-[![Banner](https://raw.githubusercontent.com/Bankrid/Movie-Recommendation-System/main/img/banner.jpg)](https://images.unsplash.com/photo-1485846234645-a62644f84728?auto=format&fit=crop&q=80&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&w=1459)
+[![Banner](https://raw.githubusercontent.com/bankoleridwan/Movie-Recommendation-System/main/img/banner.jpg)](https://images.unsplash.com/photo-1485846234645-a62644f84728?auto=format&fit=crop&q=80&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&w=1459)
 
 
 
@@ -49,7 +49,7 @@ One notable challenge encountered in collaborative filtering was the "cold-start
 
 | Top 20 MovieId Distribution         | Last 20 MovieId Distribution        |
 | ----------------------------------- | ----------------------------------- |
-| ![top 20 movieId](https://raw.githubusercontent.com/Bankrid/Movie-Recommendation-System/main/img/Top%2020%20movieId.png) |  ![last 20 movieId](https://raw.githubusercontent.com/Bankrid/Movie-Recommendation-System/main/img/Last%2020%20movieId.png) |
+| ![top 20 movieId](https://raw.githubusercontent.com/bankoleridwan/Movie-Recommendation-System/main/img/Top%2020%20movieId.png) |  ![last 20 movieId](https://raw.githubusercontent.com/bankoleridwan/Movie-Recommendation-System/main/img/Last%2020%20movieId.png) |
 
 
 
@@ -60,7 +60,7 @@ wef dqwefwe
 
 | Top 20 UserId Distribution          | Last 20 UserId Distribution         |
 | ----------------------------------- | ----------------------------------- |
-| ![top 20 userId](https://raw.githubusercontent.com/Bankrid/Movie-Recommendation-System/main/img/Top%2020%20userId.png) |  ![last 20 userId](https://raw.githubusercontent.com/Bankrid/Movie-Recommendation-System/main/img/Last%2020%20userId.png) |
+| ![top 20 userId](https://raw.githubusercontent.com/bankoleridwan/Movie-Recommendation-System/main/img/Top%2020%20userId.png) |  ![last 20 userId](https://raw.githubusercontent.com/bankoleridwan/Movie-Recommendation-System/main/img/Last%2020%20userId.png) |
 
 
 ## Model Building
@@ -76,12 +76,12 @@ The dashboard's capabilities and functionalities are elaborated upon in the foll
 
 | The Recommender System App Homepage | Top 10 Recommendations              |
 | ----------------------------------- | ----------------------------------- |
-| ![Homepage](https://raw.githubusercontent.com/Bankrid/Movie-Recommendation-System/main/img/Streamlit%20homepage.PNG) |  ![Recommendations](https://raw.githubusercontent.com/Bankrid/Movie-Recommendation-System/main/img/Streamlit%20recommend.PNG) |
+| ![Homepage](https://raw.githubusercontent.com/bankoleridwan/Movie-Recommendation-System/main/img/Streamlit%20homepage.PNG) |  ![Recommendations](https://raw.githubusercontent.com/bankoleridwan/Movie-Recommendation-System/main/img/Streamlit%20recommend.PNG) |
 
 
 ## Recommender System App Demo
 
-[![Recommender System App Demo](https://raw.githubusercontent.com/Bankrid/Movie-Recommendation-System/main/img/Last%2020%20movieId.png)](https://youtu.be/Vi4bUEh8I04)
+[![Recommender System App Demo](https://raw.githubusercontent.com/bankoleridwan/Movie-Recommendation-System/main/img/Last%2020%20movieId.png)](https://youtu.be/Vi4bUEh8I04)
 
 
 ## Model Deployment
@@ -89,7 +89,7 @@ The dashboard's capabilities and functionalities are elaborated upon in the foll
 Subsequently, we deployed our recommender system on the AWS EC2 compute services infrastructure, complemented by using an S3 bucket for public access. This deployment enables widespread accessibility to our movie recommendation system, allowing users to benefit from its capabilities and personalized movie suggestions.
 
 
-Ready to unlock the full potential of your data? I'm excited to collaborate and help your business thrive through data-driven insights. [Get in touch!](https://bankrid.github.io/#contact:~:text=My%20Resume-,Contact%20Me,-Ready%20to%20unlock)
+Ready to unlock the full potential of your data? I'm excited to collaborate and help your business thrive through data-driven insights. [Get in touch!](https://bankoleridwan.github.io/#contact:~:text=My%20Resume-,Contact%20Me,-Ready%20to%20unlock)
 
 ## Acknowledgements
 
