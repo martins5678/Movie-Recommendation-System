@@ -81,7 +81,7 @@ The dashboard's capabilities and functionalities are elaborated upon in the foll
 
 ## Recommender System App Demo
 
-[![Recommender System App Demo](https://raw.githubusercontent.com/bankoleridwan/Movie-Recommendation-System/main/img/Last%2020%20movieId.png)](https://youtu.be/Vi4bUEh8I04)
+[![Recommender System App Demo](https://raw.githubusercontent.com/bankoleridwan/Movie-Recommendation-System/main/img/play%20icon.png)](https://youtu.be/Vi4bUEh8I04)
 
 
 ## Model Deployment
