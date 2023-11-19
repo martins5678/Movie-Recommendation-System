@@ -39,13 +39,11 @@ Here is a concise high-level review of the critical tasks to achieve the project
 ## Insights 
 The data exploration reveals
 * A wide variability in movies and users' ratings. While some users have rated 12,952 movies, others have just rated as few 1. Also, some moves have been rated 32,831, while others have just been rated once.
-
-### Top 20 MovieId Distribution
-![top 20 movieId](https://raw.githubusercontent.com/bankoleridwan/Movie-Recommendation-System/main/img/Top%2020%20movieId.png)
-
-
-### Top 20 UserId Distribution
-![top 20 userId](https://raw.githubusercontent.com/bankoleridwan/Movie-Recommendation-System/main/img/Top%2020%20userId.png)
+ ### Top 20 MovieId Distribution
+ ![top 20 movieId](https://raw.githubusercontent.com/bankoleridwan/Movie-Recommendation-System/main/img/Top%2020%20movieId.png)
+ 
+ ### Top 20 UserId Distribution
+ ![top 20 userId](https://raw.githubusercontent.com/bankoleridwan/Movie-Recommendation-System/main/img/Top%2020%20userId.png)
 
 
 * As shown above, the high variability can cause a cold start in collaborative filtering.
